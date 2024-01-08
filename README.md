@@ -1,4 +1,4 @@
-- Soy @DVMarco
+- Soy Marco
 - Estoy interesado en al analisis de datos
 - Trabajo analizando grandes bases de datos
 - Me interesa colaborar en grupos multidisciplinarios  
